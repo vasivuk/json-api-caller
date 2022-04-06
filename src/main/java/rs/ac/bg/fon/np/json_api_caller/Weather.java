@@ -13,6 +13,15 @@ public class Weather {
 		// TODO Auto-generated constructor stub
 	}
 
+	public Weather(String city, String country, Date localTime, int temperature, int weatherCode) {
+		super();
+		this.city = city;
+		this.country = country;
+		this.localTime = localTime;
+		this.temperature = temperature;
+		this.weatherCode = weatherCode;
+	}
+
 	public String getCity() {
 		return city;
 	}
