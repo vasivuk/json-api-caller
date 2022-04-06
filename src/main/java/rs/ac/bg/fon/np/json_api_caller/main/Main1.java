@@ -17,7 +17,7 @@ import rs.ac.bg.fon.np.json_api_caller.domain.Weather;
 
 public class Main1 {
 
-	public static String ACCESS_KEY = "517f47919c3b31e828fb99f06716c36a";
+	public static String ACCESS_KEY = "";
 
 	public static void main(String[] args) {
 		try {
