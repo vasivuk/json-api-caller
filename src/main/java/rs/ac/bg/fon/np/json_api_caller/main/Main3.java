@@ -9,7 +9,7 @@ import java.util.List;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import rs.ac.bg.fon.np.json_api_caller.Weather;
+import rs.ac.bg.fon.np.json_api_caller.domain.Weather;
 
 public class Main3 {
 	public static void main(String[] args) {

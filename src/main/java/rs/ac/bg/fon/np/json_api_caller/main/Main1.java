@@ -13,7 +13,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
 
-import rs.ac.bg.fon.np.json_api_caller.Weather;
+import rs.ac.bg.fon.np.json_api_caller.domain.Weather;
 
 public class Main1 {
 

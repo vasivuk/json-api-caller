@@ -1,4 +1,4 @@
-package rs.ac.bg.fon.np.json_api_caller;
+package rs.ac.bg.fon.np.json_api_caller.domain;
 
 import java.util.Date;
 
