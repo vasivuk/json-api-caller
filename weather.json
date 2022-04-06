@@ -1,0 +1,23 @@
+[
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "localTime": "Apr 6, 2022 4:58:53 PM",
+    "temperature": 21,
+    "weatherCode": 123
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "localTime": "Apr 6, 2022 4:58:53 PM",
+    "temperature": 14,
+    "weatherCode": 113
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "localTime": "Apr 6, 2022 4:58:53 PM",
+    "temperature": 25,
+    "weatherCode": 123
+  }
+]
